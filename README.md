@@ -1,5 +1,5 @@
 # roll-back-dc
-Quick guide to get the normal ui back for discord to use vencord themes or because its better. It allows you to use vencord themes again like before or just the ui from before.
+Quick guide to get the normal ui back for discord to use vencord themes or simply because its better. It allows you to use vencord themes again like before or just restore the ui from before.
 
 # Pre-requisites
 
