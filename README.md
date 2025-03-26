@@ -3,9 +3,9 @@ Quick guide to get the normal ui back for discord to use vencord themes or becau
 
 # Pre-requisites
 Vencord
-`https://vencord.dev/`
+* `https://vencord.dev/`
 Discord
-`https://discord.com/`
+* `https://discord.com/`
 
 ## Guide
 1. install experiments plugin (vencord)
