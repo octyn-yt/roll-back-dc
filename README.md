@@ -1,5 +1,5 @@
 # roll-back-dc
-Quick guide to get the normal ui back for discord to use vencord themes or because its better. 
+Quick guide to get the normal ui back for discord to use vencord themes or because its better. It allows you to use vencord themes again like before or just the ui from before.
 
 # Pre-requisites
 Vencord
@@ -9,3 +9,6 @@ Discord
 1. install experiments plugin (vencord)
 2. go in discord settings, sccroll down till u see "DEVELOPERS ONLY", click the first setting in that category and type in desktop refresh, once typed it should say desktop visual refresh.
 3. click the dark box and click control 0
+
+## Credits
+Thanks to ASCENT CHEATS for telling me about this, I didn't even notice the new ui before this.
