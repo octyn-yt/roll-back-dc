@@ -11,4 +11,4 @@ Discord
 3. click the dark box and click control 0
 
 ## Credits
-Thanks to ASCENT CHEATS for telling me about this, I didn't even notice the new ui before this.
+Thanks to Tainted (zlsb) for telling me about this, I didn't even notice the new ui before this.
