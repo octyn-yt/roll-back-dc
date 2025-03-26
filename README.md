@@ -2,10 +2,11 @@
 Quick guide to get the normal ui back for discord to use vencord themes or because its better. It allows you to use vencord themes again like before or just the ui from before.
 
 # Pre-requisites
-Vencord
+
+## Vencord
 * `https://vencord.dev/`
   
-Discord
+## Discord
 * `https://discord.com/`
 
 ## Guide
