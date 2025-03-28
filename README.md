@@ -15,4 +15,4 @@ Quick guide to get the normal ui back for discord to use vencord themes or simpl
 3. click the dark box and click control 0
 
 # Credits
-Thanks to Tainted (zlsb) for telling me about this, I didn't even notice the new ui before this.
+Thanks to Tainted (zlsb) and mrrp for telling me about this, I didn't even notice the new ui before this.
